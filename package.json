@@ -1,0 +1,12 @@
+{
+  "name": "elm-xtag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "elm-make src/Main.elm --output app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marek Fajkus",
+  "license": "BSD-3-Clause"
+}
